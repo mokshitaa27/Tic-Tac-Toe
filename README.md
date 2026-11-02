@@ -83,7 +83,7 @@ gcc tictactoe.c -o tictactoe
 
 ## Author
 
-**Sahib Singh**
+**Mokshita Kansal**
 
 First-Year Engineering Student
 
